@@ -1,0 +1,145 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#content {
+}
+#header {
+    height: 80px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #FF7700;
+}
+#navega {
+    height: 30px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    background-color: #FFF100;
+}
+#banner {
+    height: 200px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #7BFF91;
+}
+#mainhead {
+    background-color: #F69DFF;
+    height: 30px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#contenido {
+    height: 600px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: #FAFF93;
+}
+#footer {
+    height: 150px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #FF0000;
+}
+#leftside {
+    background-color: #41FFCB;
+    padding: 10px;
+    float: left;
+    height: 580px;
+    width: 40%;
+    margin-right: 15px;
+}
+#rightside {
+    background-color: #283DBE;
+    padding: 10px;
+    float: right;
+    height: 580px;
+    width: 55%;
+}
+#rightside {
+    background-color: #1C2AC3;
+    padding: 10px;
+    float: right;
+    height: 580px;
+    width: 55%;
+}
+#leftside {
+    background-color: #03E0BC;
+    padding: 10px;
+    float: left;
+    height: 580px;
+    width: 40%;
+    margin-right: 15px;
+}
+#rightside {
+    background-color: #0030CF;
+    padding: 10px;
+    float: right;
+    height: 580px;
+    width: 54%;
+}
+#menufijo {
+    background-color: #105603;
+    margin-left: 33%;
+    position: fixed;
+}
+#c1 {
+    background-color: #FB0004;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 1;
+    left: 271px;
+    top: 535px;
+}
+#c2 {
+    background-color: #FFEB00;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 2;
+}
+#c3 {
+    background-color: #16FF00;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 3;
+}
+#c4 {
+    background-color: #3C68F3;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 4;
+}
+#c5 {
+    background-color: #DB25AC;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 5;
+}
+body {
+    margin-top: 0vmax;
+    margin-right: 0vmax;
+    margin-bottom: 0vmax;
+    margin-left: 0vmax;
+    background-color: #000000;
+}
